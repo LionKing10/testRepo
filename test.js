@@ -1,1 +1,1 @@
-var a = 'not sobaka 321 432'
+var a = 'not sobaka'
